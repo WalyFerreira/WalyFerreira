@@ -1,10 +1,10 @@
 ## Olá! Sou o Walysson Ferreira e seja bem-vindo(a) ao meu GitHub 🚀
 
-Comecei minha atuação na área de tecnologia no ano de 2019, iniciando como Estagiário em suporte técnico, mas em uma caminhada para me tornar um DBA.
+Iniciei minha carreira na área de tecnologia em 2019 como Estagiário em Suporte Técnico, com o objetivo de me tornar um DBA.
 
-Após o primeiro objetivo alcançado, utilizo desta ferramenta para compartilhar meus conhecimentos através de estudos e da experiência como DBA, com teorias, scripts SQL e projetos. Desta forma você poderá ter uma visão de como estudo, aplico e pratico no dia a dia os conhecimentos adquiridos.
+Após alcançar esse objetivo, utilizo esta plataforma para compartilhar meus conhecimentos por meio de estudos, experiências como DBA, teorias, scripts SQL e projetos. Assim, você poderá ter uma visão de como estudo, aplico e pratico os conhecimentos adquiridos no meu dia a dia.
 
-Caso seja de interesse, dê uma passada no meu LinkedIn e conheça um pouco mais sobre minha carreira.
+Se tiver interesse, visite meu LinkedIn para conhecer mais sobre minha trajetória profissional.
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walysson-ferreira/)
 
