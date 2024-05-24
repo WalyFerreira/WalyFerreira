@@ -11,3 +11,13 @@ Caso seja de interesse, dê uma passada no meu LinkedIn e conheça um pouco mais
 Mais uma vez, seja bem-vindo(a), e que este seja o começo de um banco de dados de conhecimento compartilhado! 🎲
 
 ![Waly GitHub stats](https://github-readme-stats.vercel.app/api?username=WalyFerreira&show_icons=true&theme=tokyonight)
+
+## Tecnologias que utilizo diariamente 👨🏽‍💻
+
+[![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
