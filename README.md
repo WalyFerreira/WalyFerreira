@@ -8,7 +8,7 @@ Se tiver interesse, visite meu LinkedIn para conhecer mais sobre minha trajetór
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walysson-ferreira/)
 
-Mais uma vez, seja bem-vindo(a), e que este seja o começo de um banco de dados de conhecimento compartilhado! 🎲
+Mais uma vez, seja bem-vindo(a), e que seja o começo de um banco de dados de conhecimento compartilhado! 🎲
 
 ![Waly GitHub stats](https://github-readme-stats.vercel.app/api?username=WalyFerreira&show_icons=true&theme=tokyonight)
 
