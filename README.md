@@ -6,7 +6,7 @@ Após o primeiro objetivo alcançado, utilizo desta ferramenta para compartilhar
 
 Caso seja de interesse, dê uma passada no meu LinkedIn e conheça um pouco mais sobre minha carreira.
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/WalyFerreira)
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walysson-ferreira/)
 
 Mais uma vez, seja bem-vindo(a), e que este seja o começo de um banco de dados de conhecimento compartilhado! 🎲
 
